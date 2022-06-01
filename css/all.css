@@ -436,18 +436,18 @@ sub {
     color: #221E1F;
 }
 
-.custom-heature-txt h2 {
+.custom-feature-txt h2 {
     font-size: 32px;
     font-weight: bold;
     margin-bottom: 16px;
 }
 
-.custom-heature-txt p {
+.custom-feature-txt p {
     font-size: 18px;
     margin-bottom: 24px;
 }
 
-.custom-heature-txt a {
+.custom-feature-txt a {
     display: inline-block;
     color: #fff;
     width: 136px;
@@ -458,7 +458,7 @@ sub {
     text-align: center;
 }
 
-.custom-heature-txt a:hover {
+.custom-feature-txt a:hover {
     background: #89f3f5;
 }
 
@@ -654,7 +654,7 @@ sub {
     }
 
     .content-role li {
-        width: 48%;
+        width: 45%;
         margin-bottom: 20px;
     }
 
@@ -665,7 +665,7 @@ sub {
         flex-direction: column-reverse;
     }
     .custom-feature {
-        width: 100vw;
+        width: 80vw;
         margin-left: 0;
         text-align: center;
         margin-bottom: 32px;
@@ -807,6 +807,7 @@ sub {
         margin-bottom: 60px;
     }
     .custom-feature {
+        width: 70vw;
         padding: 0 20px;
     }
     .custom-heature-txt h2 {
@@ -830,12 +831,12 @@ sub {
         background-position: 0 0;
     }
     .footer-banner>h2 {
-    padding: 293px 0 24px 0;
-    font-size: 24px;
-    margin-bottom: 0;
+        padding: 293px 0 24px 0;
+        font-size: 24px;
+        margin-bottom: 0;
     }
     .footer-banner>a {
-    margin:0 auto 60px auto;
+        margin:0 auto 60px auto;
     }
 }
 
